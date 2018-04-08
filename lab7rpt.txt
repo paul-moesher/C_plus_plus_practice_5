@@ -1,0 +1,11 @@
+                                              Ohio Universities Report
+                                                   Paul Moesher
+School Name                   Location                                   Enrollment                          Tution
+Antioch_College               Yellow_Springs                                 330                             $35904     
+Bowling_Green_State_Univ      Bowling_Green                                14852                             $11057     
+Case_Western_Reserve          Cleveland                                     5152                             $47500     
+Ketn_State_Univ               Kent                                         23684                             $10012     
+Miami_University              Oxford                                       16981                             $14578     
+Ohio_Univ                     Athens                                       23788                             $11896     
+Ohio_State_Univ               Columbus                                     45831                             $10591     
+University_of_Toledo          Toledo                                       16247                             $9240      
