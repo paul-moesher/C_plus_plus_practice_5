@@ -1,7 +1,7 @@
 //-----------------------------------------------------------------------------------------------------
 // CS2010											Lab 7							Date:2/23/18
 // Paul Moesher																		Class time: 10:30
-// Purpose: To show the user information about different aera colleges.
+// Purpose: To show the user information about different area colleges.
 // Input: None for the user
 // Processing: The program will read the .txt doc and display the info.
 //Outout: Each schools info will be displayed.
